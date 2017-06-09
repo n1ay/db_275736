@@ -1,4 +1,4 @@
 # Vagrant
 .vagrant
 *.log
-Vagrantfile
+*[v|V]agrant*
